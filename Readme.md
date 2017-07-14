@@ -75,10 +75,23 @@ unixbench.sh
 - Description: Auto install unixbench and test script
 - Intro: https://teddysun.com/245.html
 
+speedtest-cli
+===================
+
+- Description: Command line interface for testing internet bandwidth using speedtest.net
+- Intro: https://github.com/91yun/91yuntest
+
+91yun Test
+===================
+
+- Description: Auto Test host
+- Intro: https://github.com/91yun/91yuntest
+
 pptp.sh(Deprecated)
 ===================
 
 - Description: Auto Install PPTP for CentOS 6
 - Intro: https://teddysun.com/134.html
+
 
 Copyright (C) 2013-2017 Teddysun <i@teddysun.com>
